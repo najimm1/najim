@@ -17,6 +17,7 @@ public class Student {
      */
     private String name;
     private int ID;
+    private int MaxCourse;
 
     public Student(String givenName, int givenID)
     {
